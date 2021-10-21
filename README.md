@@ -8,4 +8,4 @@ Melihat hubungan antara feature dan target dan melakukan model-selection untuk m
 Untuk lebih lanjut silahkan kunjungi notebook yang saya buat: 
 https://github.com/sultanbst123/Water_quality/blob/main/Water_Quality--Part2.ipynb
 ## Dataset & Information
-Js
+https://www.kaggle.com/mssmartypants/water-quality
